@@ -1,0 +1,9 @@
+milk =3litre
+saffron =1/4 tsp
+cream =  1 cup
+milk powder =1 cup
+sugar= 1/2 cup
+cardamon powder= 1/2 tsp
+cashewnut= 2 tsp (chopped)
+alomnds= 2 tsp (chopped)
+pistachios =2 tsp (chopped)
